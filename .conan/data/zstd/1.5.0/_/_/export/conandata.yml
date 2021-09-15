@@ -1,0 +1,4 @@
+sources:
+  1.5.0:
+    sha256: 0d9ade222c64e912d6957b11c923e214e2e010a18f39bec102f572e693ba2867
+    url: https://github.com/facebook/zstd/archive/v1.5.0.tar.gz

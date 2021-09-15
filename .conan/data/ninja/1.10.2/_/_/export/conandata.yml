@@ -1,0 +1,4 @@
+sources:
+  1.10.2:
+    sha256: ce35865411f0490368a8fc383f29071de6690cbadc27704734978221f25e2bed
+    url: https://github.com/ninja-build/ninja/archive/v1.10.2.tar.gz
