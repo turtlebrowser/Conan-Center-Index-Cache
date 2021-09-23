@@ -31,7 +31,7 @@
     with_openssl=False
 
 [recipe_hash]
-    0339f93b9e3602be210e1f6eba78cbd6
+    6a77e28435d3b7b1f8f2d8f81eb93677
 
 [env]
 
