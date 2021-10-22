@@ -1,0 +1,8 @@
+patches:
+  2.13.93:
+  - base_path: source_subfolder
+    patch_file: patches/0001-meson-win32.patch
+sources:
+  2.13.93:
+    sha256: 0f302a18ee52dde0793fe38b266bf269dfe6e0c0ae140e30d72c6cca5dc08db5
+    url: https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz

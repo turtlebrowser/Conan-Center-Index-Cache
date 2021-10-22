@@ -1,0 +1,4 @@
+1632758507
+conandata.yml: f8438fe5f32949dc2678c477ea760692
+conanfile.py: 969131e5badc3dddbd6a51a9889dec18
+export_source/patches/0001-meson-win32.patch: f78fc7b5563631f4c72b741040fc0cc4

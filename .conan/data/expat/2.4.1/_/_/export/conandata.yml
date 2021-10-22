@@ -1,0 +1,4 @@
+sources:
+  2.4.1:
+    sha256: a00ae8a6b96b63a3910ddc1100b1a7ef50dc26dceb65ced18ded31ab392f132b
+    url: https://github.com/libexpat/libexpat/releases/download/R_2_4_1/expat-2.4.1.tar.gz

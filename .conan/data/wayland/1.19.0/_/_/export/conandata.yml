@@ -1,0 +1,4 @@
+sources:
+  1.19.0:
+    sha256: baccd902300d354581cd5ad3cc49daa4921d55fb416a5883e218750fef166d15
+    url: https://wayland.freedesktop.org/releases/wayland-1.19.0.tar.xz

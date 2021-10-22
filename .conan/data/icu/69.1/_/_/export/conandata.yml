@@ -1,0 +1,8 @@
+patches:
+  '69.1':
+  - base_path: source_subfolder
+    patch_file: patches/0001-69.1-fix-mingw.patch
+sources:
+  '69.1':
+    sha256: 4cba7b7acd1d3c42c44bb0c14be6637098c7faf2b330ce876bc5f3b915d09745
+    url: https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz
