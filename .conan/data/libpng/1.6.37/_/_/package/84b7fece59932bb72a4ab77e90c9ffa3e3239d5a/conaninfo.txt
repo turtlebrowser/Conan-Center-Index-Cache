@@ -1,0 +1,40 @@
+[settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[requires]
+    zlib/1.Y.Z
+
+[options]
+    api_prefix=
+    fPIC=True
+    shared=False
+    sse=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[full_requires]
+    zlib/1.2.11:d98fae1010d1fb9e7f79a1e8a72bbf129d8660a2
+
+[full_options]
+    api_prefix=
+    fPIC=True
+    shared=False
+    sse=True
+    zlib:fPIC=True
+    zlib:minizip=deprecated
+    zlib:shared=False
+
+[recipe_hash]
+    08b5607052686860a2e40d5db6166d9f
+
+[env]
+
