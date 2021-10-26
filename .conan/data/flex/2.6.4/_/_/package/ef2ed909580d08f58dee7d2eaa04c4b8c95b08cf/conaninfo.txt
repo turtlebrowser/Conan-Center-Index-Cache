@@ -20,14 +20,14 @@
     os=Macos
 
 [full_requires]
-    m4/1.4.18:801752c0480319b8e090188c566245a78e9abcf4
+    m4/1.4.19:801752c0480319b8e090188c566245a78e9abcf4
 
 [full_options]
     fPIC=True
     shared=False
 
 [recipe_hash]
-    4ee653bf6e3f8dee58fe7e8b74368f6c
+    e4696e6333f2d486e7073de6a9559712
 
 [env]
 

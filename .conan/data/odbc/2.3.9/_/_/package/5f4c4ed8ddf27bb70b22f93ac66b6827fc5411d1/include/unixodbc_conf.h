@@ -5,7 +5,7 @@
 #define ASCII_ENCODING "auto-search"
 
 /* Install bindir */
-#define BIN_PREFIX "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/bin"
+#define BIN_PREFIX "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/bin"
 
 /* Use a semaphore to allow ODBCConfig to display running counts */
 /* #undef COLLECT_STATS */
@@ -19,7 +19,7 @@
 /* #undef C_ALLOCA */
 
 /* Lib directory */
-#define DEFLIB_PATH "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
+#define DEFLIB_PATH "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
 
 /* Using perdriver iconv */
 /* #undef ENABLE_DRIVER_ICONV */
@@ -28,7 +28,7 @@
 #define ENABLE_INI_CACHING /**/
 
 /* Install exec_prefix */
-#define EXEC_PREFIX "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1"
+#define EXEC_PREFIX "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1"
 
 /* Disable the precise but slow checking of the validity of handles */
 /* #undef FAST_HANDLE_VALIDATE */
@@ -351,10 +351,10 @@
 #define ICONV_CONST 
 
 /* Install includedir */
-#define INCLUDE_PREFIX "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/include"
+#define INCLUDE_PREFIX "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/include"
 
 /* Lib directory */
-#define LIB_PREFIX "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
+#define LIB_PREFIX "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
 
 /* Define if the OS needs help to load dependent libraries for dlopen(). */
 /* #undef LTDL_DLOPEN_DEPLIBS */
@@ -418,7 +418,7 @@
 #define PLATFORM64 /**/
 
 /* Install prefix */
-#define PREFIX "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1"
+#define PREFIX "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1"
 
 /* Using QNX */
 /* #undef QNX_LIBLTDL */
@@ -453,7 +453,7 @@
 #define SYSTEM_FILE_PATH "/etc"
 
 /* Lib path */
-#define SYSTEM_LIB_PATH "/Users/jenkins/w/BuildSingleReference@8/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
+#define SYSTEM_LIB_PATH "/Users/jenkins/w/BuildSingleReference@4/.conan/data/odbc/2.3.9/_/_/package/5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1/lib"
 
 /* Define to 1 if you can safely include both <sys/time.h> and <time.h>. */
 #define TIME_WITH_SYS_TIME 1
