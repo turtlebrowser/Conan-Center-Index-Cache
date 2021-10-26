@@ -1,0 +1,4 @@
+1606592965
+bin/ninja.exe: 5372998d5a25f43f530cd52c545302f9
+conaninfo.txt: 594d3ba49b993f13797974f58fb631cb
+licenses/COPYING: a81586a64ad4e476c791cda7e2f2c52e
