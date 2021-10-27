@@ -1,0 +1,5 @@
+1625761691
+conaninfo.txt: 04eb4de923e460e54b0ac4dd62f1d877
+include/uuid/uuid.h: 35a97c82d22737936a4ba8fb6924bcd4
+lib/libuuid.a: d8985d9c5b3e3b8aa2ae99e62299e92a
+licenses/COPYING: aa3ac5b4a5bcb707f714f78794011b80

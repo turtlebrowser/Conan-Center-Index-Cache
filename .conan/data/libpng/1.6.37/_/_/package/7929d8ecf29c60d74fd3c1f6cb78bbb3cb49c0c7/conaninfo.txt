@@ -1,0 +1,40 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=9
+    os=Linux
+
+[requires]
+    zlib/1.Y.Z
+
+[options]
+    api_prefix=
+    fPIC=True
+    shared=False
+    sse=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=9
+    os=Linux
+
+[full_requires]
+    zlib/1.2.11:6af9cc7cb931c5ad942174fd7838eb655717c709
+
+[full_options]
+    api_prefix=
+    fPIC=True
+    shared=False
+    sse=True
+    zlib:fPIC=True
+    zlib:minizip=deprecated
+    zlib:shared=False
+
+[recipe_hash]
+    08b5607052686860a2e40d5db6166d9f
+
+[env]
+

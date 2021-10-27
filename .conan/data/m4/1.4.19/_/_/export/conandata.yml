@@ -1,0 +1,10 @@
+patches:
+  1.4.19:
+  - base_path: source_subfolder
+    patch_file: patches/1.4.19-0001-open-files-in-binary-mode.patch
+  - base_path: source_subfolder
+    patch_file: patches/1.4.19-0002-ar-lib.patch
+sources:
+  1.4.19:
+    sha256: 3be4a26d825ffdfda52a56fc43246456989a3630093cced3fbddf4771ee58a70
+    url: https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.gz

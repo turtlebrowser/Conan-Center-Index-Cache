@@ -1,0 +1,22 @@
+1628238528
+bin/comp_err: 788622cca625c3e82ce8acc8917554d2
+bin/my_print_defaults: e546dff6820365c3bf23a63eefb0877d
+bin/mysql_config: 2f23b6050d68afeb6b8145927947595d
+bin/perror: 03322938534c4167a2ec42de6d84bb75
+bin/zlib_decompress: f31bb5b606cbb008bc3ac8ea1e8cef98
+conaninfo.txt: e41a7c032952842a287322dfcbf19290
+include/errmsg.h: 491930744f3a9f98facbe149f391c490
+include/field_types.h: 4844fed5b98c2388051b3b1575d59f82
+include/my_command.h: fac96a914c0ccf4c6cbf12084570f35b
+include/my_compress.h: ee1e94bc37b2e8e32215c72c514f87ee
+include/my_list.h: 3e25c7cef455b94de4cac9bfe5ceecd2
+include/mysql.h: b35c79e99ff570e96a0b596613d491e0
+include/mysql/client_plugin.h: 8ac791fd211671014cc69858dfb2e851
+include/mysql/plugin_auth_common.h: a6a84eca77c119a5d756ca03fb234dd7
+include/mysql/udf_registration_types.h: 4bc6dbd63647f21b55ccae4d900b0eaa
+include/mysql_com.h: 76d9a09c9ef780e227ee5ff0dea32168
+include/mysql_time.h: 341c506bfd74739feb0926c01b6686a1
+include/mysql_version.h: 0f59261ad63a7638d395c12e4d243aee
+include/mysqld_error.h: ea988d26f145217c2e30ea5db8740405
+lib/libmysqlclient.a: ad8b3b0480b98085ad32c590a929fc06
+licenses/LICENSE: 503823d412e333bda8617ef8eae01e15
