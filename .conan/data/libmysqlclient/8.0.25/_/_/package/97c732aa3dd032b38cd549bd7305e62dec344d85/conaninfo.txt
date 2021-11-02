@@ -87,6 +87,8 @@
     openssl:no_sse2=False
     openssl:no_ssl=False
     openssl:no_ssl3=False
+    openssl:no_stdio=False
+    openssl:no_tests=False
     openssl:no_threads=False
     openssl:no_tls1=False
     openssl:no_ts=False
@@ -100,7 +102,7 @@
     zstd:shared=False
 
 [recipe_hash]
-    1591c182bbaca9cf26edb2d33ebffeb7
+    68c89ca40e64a79ec0a90ccec7148565
 
 [env]
 
