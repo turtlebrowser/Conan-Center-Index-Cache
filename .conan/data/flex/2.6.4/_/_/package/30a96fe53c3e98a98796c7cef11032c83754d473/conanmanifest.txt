@@ -1,0 +1,7 @@
+1633554415
+bin/flex: f3d9373c7fcac640804b2bc44c41747b
+bin/flex++: f3d9373c7fcac640804b2bc44c41747b
+conaninfo.txt: b5ee3970990ce6f5aa999f14f37a8537
+include/FlexLexer.h: 38e430f055b643e834bac596bf13e556
+lib/libfl.a: 89c45c64e8fcec55cef893588e6d0ab9
+licenses/COPYING: e4742cf92e89040b39486a6219b68067
