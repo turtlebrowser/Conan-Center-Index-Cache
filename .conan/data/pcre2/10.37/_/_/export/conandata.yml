@@ -4,4 +4,3 @@ sources:
     url:
     - https://github.com/PhilipHazel/pcre2/releases/download/pcre2-10.37/pcre2-10.37.tar.bz2
     - https://sourceforge.net/projects/pcre/files/pcre2/10.37/pcre2-10.37.tar.bz2
-    - https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2
