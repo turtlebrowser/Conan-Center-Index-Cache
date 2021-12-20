@@ -25,7 +25,7 @@
     fPIC=True
 
 [recipe_hash]
-    47f49e709ddb9f8e055471c4e3c4e67d
+    ad29e804e82c8b6d58765096676b5a5e
 
 [env]
 

@@ -13,6 +13,7 @@
 #define QT_FEATURE_imageformat_xpm 1
 #define QT_FEATURE_draganddrop 1
 #define QT_FEATURE_opengl 1
+#define QT_NO_EGL 
 #define QT_FEATURE_imageformatplugin 1
 #define QT_NO_HARFBUZZ 
 #define QT_FEATURE_highdpiscaling 1
