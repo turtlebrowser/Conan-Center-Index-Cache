@@ -1,7 +1,7 @@
-1621069509
+1640630004
 conaninfo.txt: 1059de6d37bad621b947a65891e4a076
 include/zdict.h: 578c6531ec0f669a5484602c8119eb84
 include/zstd.h: 80be00242ee9b5166508c3ca4aab6d74
 include/zstd_errors.h: 220fd1e9ee9342920d8f1237e70d45b9
-lib/libzstd.a: 0d43b4427642890cac6945dc04699152
+lib/libzstd.a: 07cb17195ea2809885076b4fb1e2852b
 licenses/LICENSE: c7f0b161edbe52f5f345a3d1311d0b32
