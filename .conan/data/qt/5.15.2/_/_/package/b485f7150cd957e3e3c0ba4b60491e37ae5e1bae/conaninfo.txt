@@ -302,13 +302,12 @@
     sqlite3:threadsafe=1
     sqlite3:use_alloca=False
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
     zstd:fPIC=True
     zstd:shared=False
 
 [recipe_hash]
-    6fb4ea910de20ce044744178b7850003
+    3711b75877ab697abcd9a05bed7dd2e1
 
 [env]
 
