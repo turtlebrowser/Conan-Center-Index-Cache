@@ -24,11 +24,10 @@
 
 [full_options]
     fPIC=True
-    minizip=deprecated
     shared=False
 
 [recipe_hash]
-    b3eaf63da20a8606f3d84602c2cfa854
+    683857dbd5377d65f26795d4023858f9
 
 [env]
 

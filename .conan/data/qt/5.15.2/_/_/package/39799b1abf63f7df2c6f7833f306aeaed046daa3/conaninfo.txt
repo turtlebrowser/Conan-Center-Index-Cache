@@ -110,7 +110,7 @@
     expat/2.4.1:d2aa7fde96817bd9d6d001c15e0479bf82133afe
     fontconfig/2.13.93:0366b0288a6bc720fdcdad4d597db922723de980
     freetype/2.10.4:718e788d18f87efa6b201b7718f1ffac72f4ad26
-    icu/69.1:d8ebc772a721a37c9b33886cbbc9fe31fda9882b
+    icu/69.1:92b31602863248f9a98bf6e502b94996f74cd971
     libffi/3.4.2:d50a0d523d98c15bb147b18fa7d203887c38be8b
     libiconv/1.16:d50a0d523d98c15bb147b18fa7d203887c38be8b
     libjpeg/9d:d50a0d523d98c15bb147b18fa7d203887c38be8b
@@ -219,11 +219,13 @@
     freetype:with_bzip2=True
     freetype:with_png=True
     freetype:with_zlib=True
+    icu:dat_package_file=None
     icu:data_packaging=archive
     icu:fPIC=True
     icu:shared=False
     icu:silent=True
     icu:with_dyload=True
+    icu:with_icuio=True
     icu:with_unit_tests=False
     libffi:fPIC=True
     libffi:shared=False
@@ -384,13 +386,12 @@
     xkbcommon:with_x11=True
     xkbcommon:xkbregistry=True
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
     zstd:fPIC=True
     zstd:shared=False
 
 [recipe_hash]
-    6fb4ea910de20ce044744178b7850003
+    3711b75877ab697abcd9a05bed7dd2e1
 
 [env]
 
