@@ -1,4 +1,4 @@
-1639536494
+1641659788
 bin/derb: f379ad245362c84e4606826da2a6d65f
 bin/escapesrc: 637c0f239c814f8129943fbc54ee933c
 bin/genbrk: a03728f7d5f00732493e8d4028b3a4d6
@@ -15,7 +15,7 @@ bin/icuinfo: 26001f3cf998e744db3b13f720521202
 bin/icupkg: 57811ff1fd629abf749e7a5a04473830
 bin/makeconv: ef42d3cffd4cf3527b9f8629641c0357
 bin/pkgdata: 87bee2a58e9ed1cd335ac8c5266b7e5f
-conaninfo.txt: f2b4cd36ecadc6d99eb286461e56b4d9
+conaninfo.txt: 471fa00d3530e4f7c657339d9ba4b57b
 config/icucross.inc: 91413f09bb19773773f08ff8cf9a509a
 config/icucross.mk: 8135c95d9ff0e86f5c1f872673432bb1
 include/unicode/alphaindex.h: b480366eaab6885d47e4a054176811e6
