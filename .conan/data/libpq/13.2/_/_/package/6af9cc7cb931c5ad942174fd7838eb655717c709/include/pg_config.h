@@ -44,7 +44,7 @@
 #define BLCKSZ 8192
 
 /* Saved arguments from configure */
-#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/home/conan/w/BuildSingleReference/.conan/data/libpq/13.2/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CC=/usr/bin/gcc' 'CFLAGS=-m64 -O3 -s -fPIC' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXX=/usr/bin/g++' 'CXXFLAGS=-m64 -O3 -s -fPIC'"
+#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/home/runner/work/conan/release/.conan/data/libpq/13.2/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CFLAGS=-m64 -O3 -s -fPIC' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXX=/usr/bin/c++' 'CXXFLAGS=-m64 -O3 -s -fPIC'"
 
 /* Define to the default TCP port number on which the server listens and to
    which clients will try to connect. This can be overridden at run-time, but
@@ -800,7 +800,7 @@
 #define PG_VERSION_NUM 130002
 
 /* A string containing the version number, platform, and C compiler */
-#define PG_VERSION_STR "PostgreSQL 13.2 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.2.1-9ubuntu2) 9.2.1 20191008, 64-bit"
+#define PG_VERSION_STR "PostgreSQL 13.2 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0, 64-bit"
 
 /* Define to 1 to allow profiling output to be saved separately for each
    process. */

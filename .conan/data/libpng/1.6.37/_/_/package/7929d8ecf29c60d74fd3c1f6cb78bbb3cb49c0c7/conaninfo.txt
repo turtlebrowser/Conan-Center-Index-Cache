@@ -30,11 +30,10 @@
     shared=False
     sse=True
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
 
 [recipe_hash]
-    08b5607052686860a2e40d5db6166d9f
+    8b23717a9884a2b06884c599072955f4
 
 [env]
 
