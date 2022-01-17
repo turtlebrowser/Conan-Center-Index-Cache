@@ -1,6 +1,6 @@
-1631795321
-bin/wayland-scanner: 33cf760342cbaee08e3fbb16373e2eb4
-conaninfo.txt: c8c3e4bcec0f863c080be50ad1d62928
+1642079507
+bin/wayland-scanner: c116ed0b6d7512923bdfae7cf1e94bbd
+conaninfo.txt: 073dc74456830582437bd469b465f60d
 include/wayland-client-core.h: 8e1b051cfc279a8cae7a6ef2e6e046d2
 include/wayland-client-protocol.h: ff5b7425d47e4b654a0f8b82c4d7f910
 include/wayland-client.h: da7ca3df0ddd6ca83805f35c08e07788

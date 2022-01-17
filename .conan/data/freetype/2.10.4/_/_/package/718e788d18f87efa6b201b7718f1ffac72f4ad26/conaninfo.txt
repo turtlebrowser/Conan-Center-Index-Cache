@@ -49,11 +49,10 @@
     libpng:shared=False
     libpng:sse=True
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
 
 [recipe_hash]
-    6e66ba2a68a458a4cbb60077e45ee139
+    e7ac5726c54e5648788f6a117b6b9573
 
 [env]
 

@@ -92,11 +92,10 @@
     libiconv:fPIC=True
     libiconv:shared=False
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
 
 [recipe_hash]
-    9817dd585ffc6de1479da6d5bcf01fc0
+    ec19ae8cc4784751faa5205fe10b69c6
 
 [env]
 
