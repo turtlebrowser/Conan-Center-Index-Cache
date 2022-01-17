@@ -1,8 +1,8 @@
-1639340776
+1641938623
 bin/xml2-config: 6063882a4a7527af2d473dd8ae5c2280
 bin/xmlcatalog: 179c0ee28de6a2e1b62df55e8fd33a45
 bin/xmllint: 10fc6eb1d7b656d6240afe6ef7b83675
-conaninfo.txt: 8414b77fe0681c4ec2c4e32371f9f77a
+conaninfo.txt: 0810cd2c88314025dc142fe303c88a73
 include/libxml2/libxml/DOCBparser.h: 21e6523a86338325c527e1e8847adc1d
 include/libxml2/libxml/HTMLparser.h: d57891c89573ed6dce04b8133e7438d2
 include/libxml2/libxml/HTMLtree.h: 46cf4cefb419e18c40b8d5b6ac982f3f

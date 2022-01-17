@@ -1,6 +1,6 @@
-1632242998
+1641865914
 bin/freetype-config: cce95eebb7ed5e8ad02d19beaa01a25d
-conaninfo.txt: 5bd59faea9523af6b05ecf970f8e80c7
+conaninfo.txt: d76c46b1e8e15a02761dbfabcf7fcca0
 include/freetype2/freetype/config/ftconfig.h: 28acbc49e36c82ae9ea2b76e453a5e4b
 include/freetype2/freetype/config/ftheader.h: 8e72e64894219c4ec3fca41f9b9bed55
 include/freetype2/freetype/config/ftmodule.h: e8dfd5b101eeec8ee3902fdf750f3999
