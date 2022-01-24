@@ -1,0 +1,4 @@
+sources:
+  '1.24':
+    sha256: 71a171f964e4fe25cede281a2939ac5298ddaba9a5dd8a217db66843a532d064
+    url: https://github.com/wayland-project/wayland-protocols/archive/1.24.tar.gz

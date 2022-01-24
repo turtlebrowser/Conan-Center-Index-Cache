@@ -1,12 +1,12 @@
-1635433574
-bin/xkbcli: d392057a443a0609a2261808db86b09d
-bin/xkbcommon/xkbcli-compile-keymap: 6fa5f8e4d6c8c0a8495775de9fdc4688
-bin/xkbcommon/xkbcli-how-to-type: 843031643526fee00bcebd8b7d106243
-bin/xkbcommon/xkbcli-interactive-evdev: 6311b3828ff9769569fb0933b2e8cac0
-bin/xkbcommon/xkbcli-interactive-wayland: 412fba35dc0b0154b3a9bb04bd9e4d62
-bin/xkbcommon/xkbcli-interactive-x11: b1062bcf7dbd8c46df6d3d5dae772b03
+1642591088
+bin/xkbcli: a176a157f127a7fa37e569a818c27870
+bin/xkbcommon/xkbcli-compile-keymap: 0467040655e7bc2da806b2dd6cd85a18
+bin/xkbcommon/xkbcli-how-to-type: cb0174d7a9cabdc22a245ab4ecf5afa9
+bin/xkbcommon/xkbcli-interactive-evdev: ddb24e0317c1359501c819faef5f0df7
+bin/xkbcommon/xkbcli-interactive-wayland: dc2e95560dfa6e8594ad7115d7bf4286
+bin/xkbcommon/xkbcli-interactive-x11: 1bae234f9d58967150e86c7643ec18ca
 bin/xkbcommon/xkbcli-list: cbd74f9c620aa8ae218165baacb3299e
-conaninfo.txt: 2a1e5bf5b247041d6d01812620d77abf
+conaninfo.txt: d05196289200040a34859fc74fd3b2d8
 include/xkbcommon/xkbcommon-compat.h: b07292505eb1a4861a72d2cfb4da7cf8
 include/xkbcommon/xkbcommon-compose.h: 39e5424a6d642116b57e3a57ec73f59c
 include/xkbcommon/xkbcommon-keysyms.h: 3b2a7a1212aeaa2b6c8e296eaaec98ed
@@ -15,6 +15,6 @@ include/xkbcommon/xkbcommon-x11.h: dd1e1af86abaf61f54fe964c4f5b3287
 include/xkbcommon/xkbcommon.h: d485691e21bc12c052d39f828d304ff4
 include/xkbcommon/xkbregistry.h: 73de106b4f8b9ca4eee019e992bd3454
 lib/libxkbcommon-x11.a: bdd28a8b3f3b920563359e3aa40eab42
-lib/libxkbcommon.a: fa713f037847e3e77576addf1070bded
+lib/libxkbcommon.a: b8aaa1d60b254c04ffc0be6314e0a964
 lib/libxkbregistry.a: a3a24102c411066b7800a4f7429b8ac3
 licenses/LICENSE: e525ed9809e1f8a07cf4bce8b09e8b87

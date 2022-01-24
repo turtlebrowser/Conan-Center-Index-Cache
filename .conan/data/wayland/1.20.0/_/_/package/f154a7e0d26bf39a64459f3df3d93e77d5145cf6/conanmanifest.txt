@@ -1,0 +1,24 @@
+1642082670
+bin/wayland-scanner: 91e5dd51efcc4320563672f07104f772
+conaninfo.txt: 31d29aa2fa2cf8511e108025ad9bf33d
+include/wayland-client-core.h: 8abeb0a9c2b95dcae1496afa6488a0a7
+include/wayland-client-protocol.h: a737a19c79979d5ab2586e17e6c43c34
+include/wayland-client.h: da7ca3df0ddd6ca83805f35c08e07788
+include/wayland-cursor.h: 08f55a5fb6d13ab0bdda38e5820daffa
+include/wayland-egl-backend.h: 38b6a842e267d8762ee9a2c67e4f3198
+include/wayland-egl-core.h: f26805ee1121df5138de7e68fb36e89d
+include/wayland-egl.h: a03f691bb8cbcecb9707119f6b077633
+include/wayland-server-core.h: 90434ad4dc4752928a0de2e6c071f422
+include/wayland-server-protocol.h: 987bef12eefc6a2c57d1f7261ebcbc4d
+include/wayland-server.h: a26ca1a141cc0169c57862e9ba9d7c06
+include/wayland-util.h: c63b181797e7ccf832f69f7f2d49ca32
+include/wayland-version.h: 1d9fc418f126c66e5f1622f92953f0a6
+lib/libwayland-client.a: dc5a9d2c17a41dd3e667a43eb8118fec
+lib/libwayland-cursor.a: 92f1ebd23410dcc15c13f4a4be7163ac
+lib/libwayland-egl.a: 5ae55834d10c18674482dbfe7316238e
+lib/libwayland-server.a: 13d4aeb60276c16ecccc059610750f04
+licenses/COPYING: b31d8f53b6aaf2b4985d7dd7810a70d1
+res/aclocal/wayland-scanner.m4: bd5c0a66e03dfd902d4cca09dfa38898
+res/wayland/wayland-scanner.mk: 2c2a360e4c4a3a99a95b975417d6af7f
+res/wayland/wayland.dtd: 22df005be89322a1d355a5b91e744e61
+res/wayland/wayland.xml: 63f8d208772b711ff7532c46d82b9751

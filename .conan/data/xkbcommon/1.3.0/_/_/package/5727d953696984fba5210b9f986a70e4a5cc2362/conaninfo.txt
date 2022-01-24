@@ -26,12 +26,12 @@
     os=Linux
 
 [full_requires]
-    expat/2.4.1:c215f67ac7fc6a34d9d0fb90b0450016be569d86
+    expat/2.4.2:c215f67ac7fc6a34d9d0fb90b0450016be569d86
     libffi/3.4.2:6af9cc7cb931c5ad942174fd7838eb655717c709
     libiconv/1.16:6af9cc7cb931c5ad942174fd7838eb655717c709
     libxml2/2.9.12:e9a3e7dd6ab9bf161be4ac8c0925d9a6ba8f2645
-    wayland/1.19.0:f154a7e0d26bf39a64459f3df3d93e77d5145cf6
-    wayland-protocols/1.21:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    wayland/1.20.0:f154a7e0d26bf39a64459f3df3d93e77d5145cf6
+    wayland-protocols/1.24:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
     xorg/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
     zlib/1.2.11:6af9cc7cb931c5ad942174fd7838eb655717c709
 
@@ -86,11 +86,10 @@
     wayland:fPIC=True
     wayland:shared=False
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
 
 [recipe_hash]
-    5a5e6118850a036f1a6166fdaf16d379
+    76bc12e21c9ce7095cddc9f61fe1f189
 
 [env]
 
