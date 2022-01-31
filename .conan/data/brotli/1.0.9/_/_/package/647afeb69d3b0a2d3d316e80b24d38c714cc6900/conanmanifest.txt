@@ -1,10 +1,10 @@
-1641861632
-conaninfo.txt: bb8419b134068ea98659bdaa53674952
+1642155423
+conaninfo.txt: 9410685874691c17f453c74649f9a480
 include/brotli/decode.h: 3ab635985bdfb22a8165816c8adb436e
 include/brotli/encode.h: 67ebfdf08ace3f56671fdd2d32a4dfea
 include/brotli/port.h: 40989c8f42ff3fa0efdeea3fe2060dfa
 include/brotli/types.h: 4d772e4c18afe1d9051a92b0ea1aefab
-lib/libbrotlicommon-static.a: 3e540ba4f2fba5d1a16e966b1912d2b9
-lib/libbrotlidec-static.a: 93950c20363b612c08a9aa51d0e943b2
-lib/libbrotlienc-static.a: 53a9aaa7055429cbcab979641788f672
+lib/libbrotlicommon-static.a: 1f0d69435829f8f7326924f598fdcabe
+lib/libbrotlidec-static.a: c301d289581fa740592a8a96d0bc632d
+lib/libbrotlienc-static.a: b37e38777c534e0f74a004c6da2859fb
 licenses/LICENSE: 941ee9cd1609382f946352712a319b4b
