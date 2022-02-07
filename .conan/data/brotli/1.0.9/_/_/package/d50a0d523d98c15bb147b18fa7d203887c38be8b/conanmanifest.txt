@@ -1,5 +1,5 @@
-1642154520
-conaninfo.txt: ba6c27c47372953cbfe388061336eb75
+1643827384
+conaninfo.txt: 984244128c3db76909c624681e8823db
 include/brotli/decode.h: 3ab635985bdfb22a8165816c8adb436e
 include/brotli/encode.h: 67ebfdf08ace3f56671fdd2d32a4dfea
 include/brotli/port.h: 40989c8f42ff3fa0efdeea3fe2060dfa

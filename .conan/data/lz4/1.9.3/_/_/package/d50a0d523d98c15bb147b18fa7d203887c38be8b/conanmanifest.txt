@@ -1,5 +1,5 @@
-1606064277
-conaninfo.txt: caf062153f6b06f4dc0b0aaad367087f
+1644098647
+conaninfo.txt: 825a1145b6846c1fd08e6ee62adb9d07
 include/lz4.h: 76afde45cae83b3c5d306c305bd66167
 include/lz4frame.h: 39c4b3909e7bc0971b0dd541ae4f36ea
 include/lz4hc.h: 512cec02943e19319de298eca5f73704
