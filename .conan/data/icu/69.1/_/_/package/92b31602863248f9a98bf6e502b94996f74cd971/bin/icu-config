@@ -53,15 +53,15 @@ loaddefs()
 # etc.  If ICU is not installed in this directory, you must change the
 # following line.  There should exist ${prefix}/include/unicode/utypes.h
 # for example.
-default_prefix="/home/conan/w/BuildSingleReference/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971"
+default_prefix="/home/runner/work/conan/release/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971"
 if [ "x${prefix}" = "x" ]; then prefix="$default_prefix"; fi
 exec_prefix="${prefix}"
-libdir="/home/conan/w/BuildSingleReference/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/lib"
+libdir="/home/runner/work/conan/release/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/lib"
 libexecdir="${exec_prefix}/libexec"
 bindir="${exec_prefix}/bin"
-datarootdir="/home/conan/w/BuildSingleReference/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/lib"
+datarootdir="/home/runner/work/conan/release/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/lib"
 datadir="${datarootdir}"
-sbindir="/home/conan/w/BuildSingleReference/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/bin"
+sbindir="/home/runner/work/conan/release/.conan/data/icu/69.1/_/_/package/92b31602863248f9a98bf6e502b94996f74cd971/bin"
 
 # about the ICU version
 VERSION="69.1"

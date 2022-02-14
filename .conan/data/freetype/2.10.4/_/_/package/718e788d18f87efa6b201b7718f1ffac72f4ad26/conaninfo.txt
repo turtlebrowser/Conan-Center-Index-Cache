@@ -14,6 +14,7 @@
 [options]
     fPIC=True
     shared=False
+    subpixel=False
     with_brotli=True
     with_bzip2=True
     with_png=True
@@ -35,6 +36,7 @@
 [full_options]
     fPIC=True
     shared=False
+    subpixel=False
     with_brotli=True
     with_bzip2=True
     with_png=True
@@ -52,7 +54,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    b7dbc197d243c8ad3e1a4ef483ad8f88
+    c091d3609d9c3930acf474022891e294
 
 [env]
 
