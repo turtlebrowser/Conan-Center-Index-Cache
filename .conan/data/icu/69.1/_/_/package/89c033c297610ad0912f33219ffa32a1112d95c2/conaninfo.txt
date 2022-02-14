@@ -15,6 +15,7 @@
     fPIC=True
     shared=False
     with_dyload=True
+    with_extras=False
     with_icuio=True
 
 [full_settings]
@@ -35,11 +36,12 @@
     shared=False
     silent=True
     with_dyload=True
+    with_extras=False
     with_icuio=True
     with_unit_tests=False
 
 [recipe_hash]
-    582fc48e2ad33b05ed2672a342110d7d
+    25d65a07c5e387f0c39afc96c7a2de86
 
 [env]
 
