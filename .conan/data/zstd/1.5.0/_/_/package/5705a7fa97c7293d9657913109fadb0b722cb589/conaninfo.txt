@@ -11,6 +11,7 @@
 [options]
     fPIC=True
     shared=False
+    threading=True
 
 [full_settings]
     arch=x86_64
@@ -25,9 +26,10 @@
 [full_options]
     fPIC=True
     shared=False
+    threading=True
 
 [recipe_hash]
-    05310dd310959552336b136c594ac562
+    81dd30a163bc661d1a79930085583fd9
 
 [env]
 
