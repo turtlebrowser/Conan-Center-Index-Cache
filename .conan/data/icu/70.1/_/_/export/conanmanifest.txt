@@ -1,0 +1,4 @@
+1644350545
+conandata.yml: ff6051a36a25c37be572519c1dd4fc08
+conanfile.py: 995d944bf7456b16721bbfde9d232603
+export_source/patches/0001-69.1-fix-mingw.patch: fc7ac2351d39e09dbc6b4a4aeb0ec62b

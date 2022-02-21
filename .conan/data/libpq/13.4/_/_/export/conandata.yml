@@ -1,0 +1,4 @@
+sources:
+  '13.4':
+    sha256: 59d7bc523e78570c549876fed297ec3e46dd307e90f5b1d22f49181191cf203e
+    url: https://ftp.postgresql.org/pub/source/v13.4/postgresql-13.4.tar.gz
