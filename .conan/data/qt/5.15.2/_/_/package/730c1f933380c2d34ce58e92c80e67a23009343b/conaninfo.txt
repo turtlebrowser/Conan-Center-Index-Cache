@@ -358,6 +358,7 @@
     sqlite3:build_executable=True
     sqlite3:disable_gethostuuid=False
     sqlite3:enable_column_metadata=True
+    sqlite3:enable_dbpage_vtab=False
     sqlite3:enable_dbstat_vtab=False
     sqlite3:enable_default_secure_delete=False
     sqlite3:enable_default_vfs=True
@@ -394,7 +395,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    5281a79a45c43a270424486cf94b7917
+    1bb4cf23e88664c8e4202a2aa177e54a
 
 [env]
 

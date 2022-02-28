@@ -12,6 +12,7 @@
     build_executable=True
     disable_gethostuuid=False
     enable_column_metadata=True
+    enable_dbpage_vtab=False
     enable_dbstat_vtab=False
     enable_default_secure_delete=False
     enable_default_vfs=True
@@ -47,6 +48,7 @@
     build_executable=True
     disable_gethostuuid=False
     enable_column_metadata=True
+    enable_dbpage_vtab=False
     enable_dbstat_vtab=False
     enable_default_secure_delete=False
     enable_default_vfs=True
@@ -69,7 +71,7 @@
     use_alloca=False
 
 [recipe_hash]
-    8e4989a1ee5d3237a25a911fbcb19097
+    880318467d15294bc7bb914259efe710
 
 [env]
 

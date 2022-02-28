@@ -1,3 +1,7 @@
+patches:
+  1.1.1m:
+  - base_path: source_subfolder
+    patch_file: patches/1.1.1-tvos-watchos.patch
 sources:
   1.1.1m:
     sha256: f89199be8b23ca45fc7cb9f1d8d3ee67312318286ad030f5316aca6462db6c96

@@ -13,7 +13,7 @@
 # and add symbolic links to their hash values.
 
 my $dir = "/etc/ssl";
-my $prefix = "/home/conan/w/BuildSingleReference/.conan/data/openssl/1.1.1m/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709";
+my $prefix = "/home/conan/w/prod/BuildSingleReference/.conan/data/openssl/1.1.1m/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709";
 
 my $errorcount = 0;
 my $openssl = $ENV{OPENSSL} || "openssl";
