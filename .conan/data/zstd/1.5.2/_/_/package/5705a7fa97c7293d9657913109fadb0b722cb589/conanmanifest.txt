@@ -1,0 +1,7 @@
+1644560286
+conaninfo.txt: dd4d812a152edde7d6910614a5b320ad
+include/zdict.h: 97ff9d48ca02ad9c536dab00f642592a
+include/zstd.h: 802312331be3ce28349cf90017b2cbf8
+include/zstd_errors.h: 220fd1e9ee9342920d8f1237e70d45b9
+lib/libzstd.a: acb927c009b3435f3caded0ca647c147
+licenses/LICENSE: c7f0b161edbe52f5f345a3d1311d0b32

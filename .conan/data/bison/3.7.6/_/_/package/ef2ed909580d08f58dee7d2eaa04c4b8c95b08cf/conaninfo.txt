@@ -1,0 +1,31 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[requires]
+    m4/1.Y.Z
+
+[options]
+    fPIC=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[full_requires]
+    m4/1.4.19:801752c0480319b8e090188c566245a78e9abcf4
+
+[full_options]
+    fPIC=True
+
+[recipe_hash]
+    617948f0c002e1ab9c22439c9e6a24ab
+
+[env]
+

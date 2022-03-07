@@ -14,7 +14,7 @@
     build_type=Release
     compiler=apple-clang
     compiler.libcxx=libc++
-    compiler.version=11.0
+    compiler.version=12.0
     os=Macos
 
 [full_requires]
