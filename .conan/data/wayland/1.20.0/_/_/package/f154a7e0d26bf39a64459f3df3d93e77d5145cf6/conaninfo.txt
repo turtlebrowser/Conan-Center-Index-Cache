@@ -24,7 +24,7 @@
     os=Linux
 
 [full_requires]
-    expat/2.4.2:c215f67ac7fc6a34d9d0fb90b0450016be569d86
+    expat/2.4.6:c215f67ac7fc6a34d9d0fb90b0450016be569d86
     libffi/3.4.2:6af9cc7cb931c5ad942174fd7838eb655717c709
     libiconv/1.16:6af9cc7cb931c5ad942174fd7838eb655717c709
     libxml2/2.9.12:e9a3e7dd6ab9bf161be4ac8c0925d9a6ba8f2645
@@ -79,7 +79,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    f8e1c6dd26fad24029162f607cb9569c
+    16d58f56bc1609420e813b64882cbb89
 
 [env]
 

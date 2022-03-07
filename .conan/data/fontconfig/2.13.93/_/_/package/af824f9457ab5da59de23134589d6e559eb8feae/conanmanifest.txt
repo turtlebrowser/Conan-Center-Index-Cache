@@ -1,4 +1,4 @@
-1641635152
+1645793857
 bin/etc/fonts/conf.d/README: ad6182d0b838d9d8f39219a37b88b24d
 bin/etc/fonts/fonts.conf: cf6bfab4656bf0aeaa0f920b9e90815f
 bin/fc-cache: 1def5a22e87ebbb2c6342428342d16e0
@@ -50,11 +50,11 @@ bin/share/fontconfig/conf.avail/90-synthetic.conf: 3202b57ed004b0828d6e2e70f56d9
 bin/share/gettext/its/fontconfig.its: 09653a472e45867beae41d1e3573499e
 bin/share/gettext/its/fontconfig.loc: 31b08013cfa125b62403440eaaff5124
 bin/share/xml/fontconfig/fonts.dtd: 2c84e0b58247e55e588812313b545636
-conaninfo.txt: 95deacc6694f177af05040a4b6372e47
+conaninfo.txt: 95a73fd67fb768b6e53fcb321d6f4bbb
 include/fontconfig/fcfreetype.h: f25cec0cf31c557b16c569e1901878bd
 include/fontconfig/fcprivate.h: 85e725e25bbda2c2f3ee3fdf90708faf
 include/fontconfig/fontconfig.h: a43a2f3df84d9b0d734de781dce2d629
-lib/libfontconfig.so: 540898bd5703962df892a50515f46dda
-lib/libfontconfig.so.1: 540898bd5703962df892a50515f46dda
-lib/libfontconfig.so.1.12.0: 540898bd5703962df892a50515f46dda
+lib/libfontconfig.so: 9c9f1043e10ba2b0c430c5375442b832
+lib/libfontconfig.so.1: 9c9f1043e10ba2b0c430c5375442b832
+lib/libfontconfig.so.1.12.0: 9c9f1043e10ba2b0c430c5375442b832
 licenses/COPYING: 70d2396d621f00b1034ccb5d3d529384
