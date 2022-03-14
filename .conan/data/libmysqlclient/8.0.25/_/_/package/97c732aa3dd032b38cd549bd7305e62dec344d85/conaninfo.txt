@@ -28,9 +28,9 @@
 
 [full_requires]
     lz4/1.9.3:647afeb69d3b0a2d3d316e80b24d38c714cc6900
-    openssl/1.1.1k:647afeb69d3b0a2d3d316e80b24d38c714cc6900
+    openssl/1.1.1m:647afeb69d3b0a2d3d316e80b24d38c714cc6900
     zlib/1.2.11:647afeb69d3b0a2d3d316e80b24d38c714cc6900
-    zstd/1.5.0:647afeb69d3b0a2d3d316e80b24d38c714cc6900
+    zstd/1.5.2:5705a7fa97c7293d9657913109fadb0b722cb589
 
 [full_options]
     fPIC=True
@@ -96,13 +96,13 @@
     openssl:openssldir=None
     openssl:shared=False
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
     zstd:fPIC=True
     zstd:shared=False
+    zstd:threading=True
 
 [recipe_hash]
-    bbe62517865849c442c032cc7aecfd57
+    51ae4cd7214d3b6aa600d2931443f749
 
 [env]
 

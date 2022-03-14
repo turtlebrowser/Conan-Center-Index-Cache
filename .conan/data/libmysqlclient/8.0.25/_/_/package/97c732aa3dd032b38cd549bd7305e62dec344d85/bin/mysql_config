@@ -86,20 +86,20 @@ me=`get_full_path $0`
 # Script might have been renamed but assume mysql_<something>config<something>
 basedir=`echo $me | sed -e 's;/bin/mysql_.*config.*;;'`
 
-ldata='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/data'
-execdir='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/bin'
-bindir='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/bin'
+ldata='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/data'
+execdir='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/bin'
+bindir='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/bin'
 
 # If installed, search for the compiled in directory first (might be "lib64")
-pkglibdir='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/lib'
+pkglibdir='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/lib'
 pkglibdir_rel=`echo $pkglibdir | sed -e "s;^$basedir/;;"`
 fix_path pkglibdir $pkglibdir_rel lib/mysql lib
 
-plugindir='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/lib/plugin'
+plugindir='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/lib/plugin'
 plugindir_rel=`echo $plugindir | sed -e "s;^$basedir/;;"`
 fix_path plugindir $plugindir_rel lib/mysql/plugin lib/plugin
 
-pkgincludedir='/Users/jenkins/w/BuildSingleReference/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/include'
+pkgincludedir='/Users/jenkins/w/BuildSingleReference@4/.conan/data/libmysqlclient/8.0.25/_/_/package/97c732aa3dd032b38cd549bd7305e62dec344d85/include'
 if [ -f "$basedir/include/mysql/mysql.h" ]; then
   pkgincludedir="$basedir/include/mysql"
 elif [ -f "$basedir/include/mysql.h" ]; then
@@ -128,7 +128,7 @@ include="-I$pkgincludedir"
 usage () {
         cat <<EOF
 Usage: $0 [OPTIONS]
-Compiler: Clang 12.0.0.12000032
+Compiler: AppleClang 12.0.5.12050022
 Options:
         --cflags         [$cflags]
         --cxxflags       [$cxxflags]
