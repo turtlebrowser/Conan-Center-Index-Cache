@@ -1,0 +1,4 @@
+sources:
+  3.2.0:
+    sha256: 3dbcdf186ad092a8b71228a5962009b5c96abde9a315257a3452eb988414ea3b
+    url: https://github.com/google/double-conversion/archive/v3.2.0.tar.gz

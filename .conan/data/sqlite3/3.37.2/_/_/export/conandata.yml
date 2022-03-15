@@ -1,0 +1,4 @@
+sources:
+  3.37.2:
+    sha256: cb25df0fb90b77be6660f6ace641bbea88f3d0441110d394ce418f35f7561bb0
+    url: https://sqlite.org/2022/sqlite-amalgamation-3370200.zip
