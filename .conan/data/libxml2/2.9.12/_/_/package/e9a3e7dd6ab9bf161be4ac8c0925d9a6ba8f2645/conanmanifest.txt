@@ -1,8 +1,8 @@
-1645356414
-bin/xml2-config: 6063882a4a7527af2d473dd8ae5c2280
-bin/xmlcatalog: 8b625dae53524a43f2de49bfb7dea353
-bin/xmllint: cbad4c2c8628437e10477a5d3ba4342b
-conaninfo.txt: 7ccb4a441ce5b60b339da240079806b8
+1647522952
+bin/xml2-config: 1fee12ba0dface98651f1a9a1731a54d
+bin/xmlcatalog: eea471f08421f6f16ddb812438bef815
+bin/xmllint: 04ce43cab585d63fd7abea576e67f1e4
+conaninfo.txt: 33a7aae4655ee6236e3f1dd7c8b91c01
 include/libxml2/libxml/DOCBparser.h: 21e6523a86338325c527e1e8847adc1d
 include/libxml2/libxml/HTMLparser.h: d57891c89573ed6dce04b8133e7438d2
 include/libxml2/libxml/HTMLtree.h: 46cf4cefb419e18c40b8d5b6ac982f3f

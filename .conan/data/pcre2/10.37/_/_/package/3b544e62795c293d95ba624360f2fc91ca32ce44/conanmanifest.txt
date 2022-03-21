@@ -1,7 +1,7 @@
-1637294027
+1646695719
 bin/pcre2-config: fb79ab0498db7a837a65ae719c821497
-bin/pcre2grep: 50c1346d041fbeb9baad5be4cde73e86
-conaninfo.txt: bcdc82d1a273e269819c96515002a7aa
+bin/pcre2grep: 2efe3cfe6bc9154fc5e4e7972252740d
+conaninfo.txt: 0ffd563d0f8ac2d26282550f2ba52024
 include/pcre2.h: 426920255bdf005cf46aa66021c2e168
 include/pcre2posix.h: f4bc2d8e6d0f78fe4ef75de2054e2581
 lib/libpcre2-16.a: 2a38400eeb30ee828ec6c231e7f7e5a1
