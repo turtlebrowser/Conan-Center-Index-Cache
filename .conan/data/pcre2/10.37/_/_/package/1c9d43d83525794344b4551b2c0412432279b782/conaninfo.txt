@@ -45,11 +45,10 @@
     bzip2:fPIC=True
     bzip2:shared=False
     zlib:fPIC=True
-    zlib:minizip=deprecated
     zlib:shared=False
 
 [recipe_hash]
-    6f33d06f647f7db2844a0368d68a833a
+    e2b5d0bca57b46f2e814a8cf66a8a80b
 
 [env]
 
