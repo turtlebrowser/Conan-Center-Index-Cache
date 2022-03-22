@@ -44,7 +44,7 @@
 #define BLCKSZ 8192
 
 /* Saved arguments from configure */
-#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/Users/jenkins/w/BuildSingleReference@4/.conan/data/libpq/13.4/_/_/package/647afeb69d3b0a2d3d316e80b24d38c714cc6900' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CFLAGS=-m64 -O3 -fPIC -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -arch x86_64' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXXFLAGS=-m64 -O3 -fPIC -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -arch x86_64'"
+#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/Users/jenkins/w/BuildSingleReference/.conan/data/libpq/13.4/_/_/package/647afeb69d3b0a2d3d316e80b24d38c714cc6900' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXXFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64'"
 
 /* Define to the default TCP port number on which the server listens and to
    which clients will try to connect. This can be overridden at run-time, but
@@ -800,7 +800,7 @@
 #define PG_VERSION_NUM 130004
 
 /* A string containing the version number, platform, and C compiler */
-#define PG_VERSION_STR "PostgreSQL 13.4 on x86_64-apple-darwin20.3.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit"
+#define PG_VERSION_STR "PostgreSQL 13.4 on x86_64-apple-darwin21.1.0, compiled by Apple clang version 12.0.5 (clang-1205.0.22.11), 64-bit"
 
 /* Define to 1 to allow profiling output to be saved separately for each
    process. */

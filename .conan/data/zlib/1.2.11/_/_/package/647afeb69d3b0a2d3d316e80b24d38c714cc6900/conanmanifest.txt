@@ -1,6 +1,6 @@
-1643077668
-conaninfo.txt: fbdbc71324f01c72ec1c33bd521d3a5d
+1647598056
+conaninfo.txt: c7d316f4400641f854db9e17aa09cb21
 include/zconf.h: cbd62a3b8f093e99f418754742a1130b
 include/zlib.h: 0338828e9d00c94645648b1517108324
-lib/libz.a: e0ea847e747d25905f930424689011fd
+lib/libz.a: a37ab5419ccab4e3c924aca30ccec1b6
 licenses/LICENSE: 1af2e5353c16e930435fff550f827c3e
