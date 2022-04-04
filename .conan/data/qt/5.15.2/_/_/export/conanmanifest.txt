@@ -1,9 +1,10 @@
-1647510353
-conandata.yml: 4504675a22b3ad39a5781e771c461f6b
-conanfile.py: c55079ecc1c5384c48783678bc7357c3
+1648115504
+conandata.yml: 9929d1aae51ced9c43f3364ec1aa28d2
+conanfile.py: bf8114a45868ccc50b945413c5d97f02
 export_source/patches/7371d3a.diff: 1aa98b1aa81e1ea382390dfb87e21551
 export_source/patches/QTBUG-88625.diff: 17264aa50135ec7ae78d4216df93ec9c
 export_source/patches/QTBUG-90395.diff: a8964dc424380c20fab03b060a4fb7cd
+export_source/patches/QTBUG-98813.patch: 570aca016d605e5b9c871b81ec061ff6
 export_source/patches/aa2a39dea5.diff: 8587541c16f0eebeb61760f19665d92a
 export_source/patches/c72097e.diff: 24f1bfa35518e7c7f286e4fe9e67a256
 export_source/patches/dece6f5.diff: db4480eb85ff2e5ee0a4fe1f53973ee2
