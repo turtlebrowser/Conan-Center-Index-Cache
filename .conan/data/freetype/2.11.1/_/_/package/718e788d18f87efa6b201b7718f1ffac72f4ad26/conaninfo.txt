@@ -31,7 +31,7 @@
     brotli/1.0.9:d50a0d523d98c15bb147b18fa7d203887c38be8b
     bzip2/1.0.8:b27e2b40bcb70be2e7d6f0e0c6e43e35c530f8d3
     libpng/1.6.37:9378b660d2155d53cea1126fa13164a3bfa59f2c
-    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
     fPIC=True
@@ -54,7 +54,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    afcd77d93fd5821dcc07701de608621c
+    ab8da23c7a7a02f5b05a49dbb14596f0
 
 [env]
 

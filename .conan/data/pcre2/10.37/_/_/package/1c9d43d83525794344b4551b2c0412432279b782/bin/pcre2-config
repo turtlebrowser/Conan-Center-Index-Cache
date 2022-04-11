@@ -1,6 +1,6 @@
 #!/bin/sh
 
-prefix=/home/conan/w/BuildSingleReference/.conan/data/pcre2/10.37/_/_/package/1c9d43d83525794344b4551b2c0412432279b782
+prefix=/home/conan/w/prod/BuildSingleReference/.conan/data/pcre2/10.37/_/_/package/1c9d43d83525794344b4551b2c0412432279b782
 exec_prefix=${prefix}
 exec_prefix_set=no
 

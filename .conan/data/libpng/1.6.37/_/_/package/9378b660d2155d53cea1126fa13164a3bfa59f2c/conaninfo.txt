@@ -22,7 +22,7 @@
     os=Linux
 
 [full_requires]
-    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
     api_prefix=
@@ -33,7 +33,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    fb3adfc5b56c0b1c26781cbc438aa78a
+    bb7ba23408411f7540b64b591488fea5
 
 [env]
 

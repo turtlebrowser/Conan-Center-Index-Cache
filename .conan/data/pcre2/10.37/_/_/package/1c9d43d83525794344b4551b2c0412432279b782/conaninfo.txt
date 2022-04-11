@@ -29,7 +29,7 @@
 
 [full_requires]
     bzip2/1.0.8:b27e2b40bcb70be2e7d6f0e0c6e43e35c530f8d3
-    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
     build_pcre2_16=True
@@ -48,7 +48,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    e2b5d0bca57b46f2e814a8cf66a8a80b
+    00eaedd0fdecf02a7e7097f04320146b
 
 [env]
 

@@ -1,6 +1,6 @@
-1644053381
+1649335369
 bin/freetype-config: f6232dc8d747bfc06c27dd6fda08970b
-conaninfo.txt: 13811f8bbe432c1a254f57f33144b3e8
+conaninfo.txt: dd76d0cb15e5da733b78a048f424e5ba
 include/freetype2/dlg/dlg.h: 5dabcd54644699d5a7548bf704fe8608
 include/freetype2/dlg/output.h: 19926c8f644922110fbd8316855d44e0
 include/freetype2/freetype/config/ftconfig.h: bb9356379127240b327a609f369c58d2
@@ -59,7 +59,7 @@ include/freetype2/freetype/tttags.h: 2b5d5d0669dbadfacb90bca684b512f2
 include/freetype2/ft2build.h: c04352af055ca4afa689ef325c322c13
 lib/cmake/conan-official-freetype-targets.cmake: 427f38bae7f4bbcb0ad89f18dcc62edd
 lib/cmake/conan-official-freetype-variables.cmake: c62479687b38c38c2665e2475e299546
-lib/libfreetype.a: a2f442a6dab96f1e23814f78bc1f9ab5
+lib/libfreetype.a: e218cea650d5ae13b362213e14bdd71a
 licenses/FTL.TXT: 9f37b4e6afa3fef9dba8932b16bd3f97
 licenses/GPLv2.TXT: 8ef380476f642c20ebf40fecb0add2ec
 res/freetype-libtool-version.txt: 05ae7c94a1a66fcf4ed15316664b772e
