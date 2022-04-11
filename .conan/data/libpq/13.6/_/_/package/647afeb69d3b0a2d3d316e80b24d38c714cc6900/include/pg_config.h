@@ -44,7 +44,7 @@
 #define BLCKSZ 8192
 
 /* Saved arguments from configure */
-#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/Users/jenkins/w/BuildSingleReference/.conan/data/libpq/13.6/_/_/package/647afeb69d3b0a2d3d316e80b24d38c714cc6900' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXXFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64'"
+#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/Users/jenkins/w/prod/BuildSingleReference@3/.conan/data/libpq/13.6/_/_/package/647afeb69d3b0a2d3d316e80b24d38c714cc6900' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/xcode/12/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXXFLAGS=-m64 -O3 -fPIC -isysroot /Applications/conan/xcode/12/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -arch x86_64'"
 
 /* Define to the default TCP port number on which the server listens and to
    which clients will try to connect. This can be overridden at run-time, but
