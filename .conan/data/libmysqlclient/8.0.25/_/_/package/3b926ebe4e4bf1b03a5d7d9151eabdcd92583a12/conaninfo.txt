@@ -28,8 +28,8 @@
 
 [full_requires]
     lz4/1.9.3:6af9cc7cb931c5ad942174fd7838eb655717c709
-    openssl/1.1.1m:6af9cc7cb931c5ad942174fd7838eb655717c709
-    zlib/1.2.11:6af9cc7cb931c5ad942174fd7838eb655717c709
+    openssl/1.1.1n:6af9cc7cb931c5ad942174fd7838eb655717c709
+    zlib/1.2.12:6af9cc7cb931c5ad942174fd7838eb655717c709
     zstd/1.5.2:a1fcff3227a663d62f35b4eedde78f4ce0fcd438
 
 [full_options]
@@ -102,7 +102,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    51ae4cd7214d3b6aa600d2931443f749
+    db646a3d31bfcedc7e1480ab7ff5a036
 
 [env]
 

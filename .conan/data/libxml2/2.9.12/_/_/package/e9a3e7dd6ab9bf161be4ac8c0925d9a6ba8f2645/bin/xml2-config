@@ -86,7 +86,7 @@ while test $# -gt 0; do
             shift
             libs="-lxml2"
         else
-            libs="-lxml2 -L/home/conan/w/prod/BuildSingleReference/.conan/data/zlib/1.2.11/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709/lib -lz -Wl,-rpath,/home/conan/w/prod/BuildSingleReference/.conan/data/zlib/1.2.11/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709/lib     -liconv  -lm  -ldl"
+            libs="-lxml2 -L/home/conan/w/prod/BuildSingleReference/.conan/data/zlib/1.2.12/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709/lib -lz -Wl,-rpath,/home/conan/w/prod/BuildSingleReference/.conan/data/zlib/1.2.12/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709/lib     -liconv  -lm  -ldl"
         fi
 
         if [ "-L${libdir}" != "-L/usr/lib" -a "-L${libdir}" != "-L/usr/lib64" ]; then

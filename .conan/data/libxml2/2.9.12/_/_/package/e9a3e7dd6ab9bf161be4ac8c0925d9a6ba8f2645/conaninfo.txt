@@ -53,7 +53,7 @@
 
 [full_requires]
     libiconv/1.16:6af9cc7cb931c5ad942174fd7838eb655717c709
-    zlib/1.2.11:6af9cc7cb931c5ad942174fd7838eb655717c709
+    zlib/1.2.12:6af9cc7cb931c5ad942174fd7838eb655717c709
 
 [full_options]
     c14n=True
@@ -95,7 +95,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    9cbe5f821971c06b1610f3b9dab3b1c7
+    cf81e476626862adf223e1faa9f09a26
 
 [env]
 

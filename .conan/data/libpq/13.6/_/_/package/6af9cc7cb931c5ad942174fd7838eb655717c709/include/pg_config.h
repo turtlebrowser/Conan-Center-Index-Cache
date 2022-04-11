@@ -44,7 +44,7 @@
 #define BLCKSZ 8192
 
 /* Saved arguments from configure */
-#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/home/conan/w/BuildSingleReference/.conan/data/libpq/13.6/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CC=/usr/bin/gcc' 'CFLAGS=-m64 -O3 -s -fPIC' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXX=/usr/bin/g++' 'CXXFLAGS=-m64 -O3 -s -fPIC'"
+#define CONFIGURE_ARGS " '--without-readline' '--without-zlib' '--without-openssl' '--prefix=/home/conan/w/prod/BuildSingleReference/.conan/data/libpq/13.6/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709' '--bindir=${prefix}/bin' '--sbindir=${prefix}/bin' '--libexecdir=${prefix}/bin' '--libdir=${prefix}/lib' '--includedir=${prefix}/include' '--oldincludedir=${prefix}/include' '--datarootdir=${prefix}/share' 'CC=/usr/bin/gcc' 'CFLAGS=-m64 -O3 -s -fPIC' 'LDFLAGS=-m64' 'LIBS=' 'CPPFLAGS=-DNDEBUG' 'CXX=/usr/bin/g++' 'CXXFLAGS=-m64 -O3 -s -fPIC'"
 
 /* Define to the default TCP port number on which the server listens and to
    which clients will try to connect. This can be overridden at run-time, but
