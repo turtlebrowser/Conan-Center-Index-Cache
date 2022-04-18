@@ -1,0 +1,23 @@
+sources:
+  16.3.0:
+    Linux:
+      armv7:
+        sha256: c8817e30fb910476ec1f223de7eedd31f3d157ddf2003a3083d7f5662180e4de
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-linux-armv7l.tar.xz
+      armv8:
+        sha256: 67dd97e41aad1bc11736e99cba119525b4f3472b132c46730ba8cf03f7076e23
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-linux-arm64.tar.xz
+      x86_64:
+        sha256: 5347ece975747e4d9768d4ed3f8b2220c955ac01f8a695347cd7f71ff5efa318
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-linux-x64.tar.xz
+    Macos:
+      armv8:
+        sha256: aeac294dbe54a4dfd222eedfbae704b185c40702254810e2c5917f6dbc80e017
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-darwin-arm64.tar.gz
+      x86_64:
+        sha256: 3e075bcfb6130dda84bfd04633cb228ec71e72d9a844c57efb7cfff130b4be89
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-darwin-x64.tar.gz
+    Windows:
+      x86_64:
+        sha256: 3352e58d3603cf58964409d07f39f3816285317d638ddb0a0bf3af5deb2ff364
+        url: https://nodejs.org/dist/v16.3.0/node-v16.3.0-win-x64.zip
