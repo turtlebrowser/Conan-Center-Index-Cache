@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+
+
+[options]
+    shared=True
+    with_mozilla=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    shared=True
+    with_mozilla=True
+
+[recipe_hash]
+    a274559696b211e797b9524adebda153
+
+[env]
+

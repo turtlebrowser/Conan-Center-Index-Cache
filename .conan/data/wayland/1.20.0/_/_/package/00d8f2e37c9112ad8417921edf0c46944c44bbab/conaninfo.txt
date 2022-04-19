@@ -24,11 +24,11 @@
     os=Linux
 
 [full_requires]
-    expat/2.4.6:d2aa7fde96817bd9d6d001c15e0479bf82133afe
+    expat/2.4.8:d2aa7fde96817bd9d6d001c15e0479bf82133afe
     libffi/3.4.2:d50a0d523d98c15bb147b18fa7d203887c38be8b
     libiconv/1.16:d50a0d523d98c15bb147b18fa7d203887c38be8b
-    libxml2/2.9.12:07753a3ecbad874f99f63d243fbb690a067a17be
-    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    libxml2/2.9.13:07753a3ecbad874f99f63d243fbb690a067a17be
+    zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
     enable_dtd_validation=True
@@ -79,7 +79,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    16d58f56bc1609420e813b64882cbb89
+    1f2f03572e6285c045d121ba5faee401
 
 [env]
 

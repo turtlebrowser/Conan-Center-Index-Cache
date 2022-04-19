@@ -1,0 +1,8 @@
+1638949076
+conaninfo.txt: 6eb1b7a007f0c51281b3b362afc281ec
+include/pciaccess.h: 1a4bfed27f908f7e889d53398cc66a09
+lib/libpciaccess.a: 1e81089db7b20ce56c55e25c689fd6b2
+lib/libpciaccess.so: f50def81f7c0fcd8130154c2c24f3ed8
+lib/libpciaccess.so.0: f50def81f7c0fcd8130154c2c24f3ed8
+lib/libpciaccess.so.0.11.1: f50def81f7c0fcd8130154c2c24f3ed8
+licenses/COPYING: 277aada5222b9a22fbf3471ff3687068

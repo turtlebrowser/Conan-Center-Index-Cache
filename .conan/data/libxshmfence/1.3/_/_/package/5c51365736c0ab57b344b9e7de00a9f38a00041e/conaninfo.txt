@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    xorg-proto/2021.Y.Z
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    xorg-proto/2021.4:cb054d0b3e1ca595dc66bc2339d40f1f8f04ab31
+
+[full_options]
+    fPIC=True
+    shared=False
+
+[recipe_hash]
+    06426f6c2b4c41ebcb3f79aa56840530
+
+[env]
+

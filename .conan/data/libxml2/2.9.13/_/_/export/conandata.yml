@@ -1,0 +1,4 @@
+sources:
+  2.9.13:
+    sha256: 276130602d12fe484ecc03447ee5e759d0465558fbc9d6bd144e3745306ebf0e
+    url: https://download.gnome.org/sources/libxml2/2.9/libxml2-2.9.13.tar.xz

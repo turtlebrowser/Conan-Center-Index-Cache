@@ -1,0 +1,67 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    libpciaccess/0.16
+    linux-headers-generic/5.Y.Z
+
+[options]
+    amdgpu=True
+    etnaviv=False
+    exynos=False
+    fPIC=True
+    freedreno=True
+    freedreno-kgsl=False
+    intel=True
+    libkms=True
+    nouveau=True
+    omap=False
+    radeon=True
+    shared=False
+    tegra=False
+    udev=False
+    valgrind=False
+    vc4=True
+    vmwgfx=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    libpciaccess/0.16:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    linux-headers-generic/5.14.9:c0519e2d9702ec12d057bb15adb7a02baaf18107
+
+[full_options]
+    amdgpu=True
+    etnaviv=False
+    exynos=False
+    fPIC=True
+    freedreno=True
+    freedreno-kgsl=False
+    intel=True
+    libkms=True
+    nouveau=True
+    omap=False
+    radeon=True
+    shared=False
+    tegra=False
+    udev=False
+    valgrind=False
+    vc4=True
+    vmwgfx=True
+    libpciaccess:fPIC=True
+    libpciaccess:shared=False
+
+[recipe_hash]
+    0b4f783b355a699f53cc5acb1521f7f5
+
+[env]
+

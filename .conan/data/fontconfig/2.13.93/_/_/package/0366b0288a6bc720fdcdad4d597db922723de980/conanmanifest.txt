@@ -1,15 +1,15 @@
-1645793732
+1649833234
 bin/etc/fonts/conf.d/README: ad6182d0b838d9d8f39219a37b88b24d
-bin/etc/fonts/fonts.conf: 6f0d75fe14ae9288c41be81db8e49a4b
-bin/fc-cache: 5eac97ecb48170252c3d63eb076debaf
-bin/fc-cat: a0f98137125764a5ede8ceb2b3d97bc6
-bin/fc-conflist: ac51ae50ec4ed0ed7fed9696292ae9d7
-bin/fc-list: c553d7356030afd2c052e9b4d7e2e3f0
-bin/fc-match: aa001f4dc0d31d628b801b3aa441e501
-bin/fc-pattern: f648ed66e3ef4a8809a788c796de1307
-bin/fc-query: 74cc783164bb9250aed7eb4a68682c4a
-bin/fc-scan: d69cf3369efae2448b9c7f4a47c39caf
-bin/fc-validate: 297d8c2ddaa29cdbb56ba67f3f70098d
+bin/etc/fonts/fonts.conf: 4f4008ed3c87195b581e13fb0b9b9a09
+bin/fc-cache: 5c6271ea75feaf1328d85efd5160115d
+bin/fc-cat: 58c181ea300a2967b529bcc74c8972d0
+bin/fc-conflist: c87cac51ddbfc37d0aae595dde0dafff
+bin/fc-list: 927ff025c328f3b71198d926ada46d26
+bin/fc-match: 84cbc68986d529265aca3f5ff3d4f386
+bin/fc-pattern: 5c7f4bd5be8860a4b7575dd31759a268
+bin/fc-query: 8773625d07cb8782f194da95772f1de8
+bin/fc-scan: f6148b269e1b1809defcd5df79e7486d
+bin/fc-validate: e831e44500ee928e1aab8ffdffa85408
 bin/share/fontconfig/conf.avail/05-reset-dirs-sample.conf: 3afa30c28051ba4ceb3e1979fc460bee
 bin/share/fontconfig/conf.avail/09-autohint-if-no-hinting.conf: e9f91b71da7d137860020c6fb1c128dc
 bin/share/fontconfig/conf.avail/10-autohint.conf: 33a364d91656a2212dfe706c3635eb5f
@@ -50,11 +50,11 @@ bin/share/fontconfig/conf.avail/90-synthetic.conf: 3202b57ed004b0828d6e2e70f56d9
 bin/share/gettext/its/fontconfig.its: 09653a472e45867beae41d1e3573499e
 bin/share/gettext/its/fontconfig.loc: 31b08013cfa125b62403440eaaff5124
 bin/share/xml/fontconfig/fonts.dtd: 2c84e0b58247e55e588812313b545636
-conaninfo.txt: 6bd41e7d221ebbd4b7abe6c9255cfe33
+conaninfo.txt: ab84aeb613629847f91d598189067a87
 include/fontconfig/fcfreetype.h: f25cec0cf31c557b16c569e1901878bd
 include/fontconfig/fcprivate.h: 85e725e25bbda2c2f3ee3fdf90708faf
 include/fontconfig/fontconfig.h: a43a2f3df84d9b0d734de781dce2d629
-lib/libfontconfig.so: 1f1fde656b0ac5429b62fb509c82e717
-lib/libfontconfig.so.1: 1f1fde656b0ac5429b62fb509c82e717
-lib/libfontconfig.so.1.12.0: 1f1fde656b0ac5429b62fb509c82e717
+lib/libfontconfig.so: 066b04e6efc88ff0c797c6f6ed75265f
+lib/libfontconfig.so.1: 066b04e6efc88ff0c797c6f6ed75265f
+lib/libfontconfig.so.1.12.0: 066b04e6efc88ff0c797c6f6ed75265f
 licenses/COPYING: 70d2396d621f00b1034ccb5d3d529384

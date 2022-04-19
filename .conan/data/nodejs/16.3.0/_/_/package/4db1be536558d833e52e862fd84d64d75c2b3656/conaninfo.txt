@@ -1,0 +1,25 @@
+[settings]
+    arch=x86_64
+    os=Linux
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    5448ebc2e155674b0641dfd546066025
+
+[env]
+

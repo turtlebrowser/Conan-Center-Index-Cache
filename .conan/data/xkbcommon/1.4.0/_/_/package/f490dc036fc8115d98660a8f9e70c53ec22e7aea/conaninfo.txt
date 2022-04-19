@@ -26,14 +26,14 @@
     os=Linux
 
 [full_requires]
-    expat/2.4.2:d2aa7fde96817bd9d6d001c15e0479bf82133afe
+    expat/2.4.8:d2aa7fde96817bd9d6d001c15e0479bf82133afe
     libffi/3.4.2:d50a0d523d98c15bb147b18fa7d203887c38be8b
     libiconv/1.16:d50a0d523d98c15bb147b18fa7d203887c38be8b
-    libxml2/2.9.12:07753a3ecbad874f99f63d243fbb690a067a17be
+    libxml2/2.9.13:07753a3ecbad874f99f63d243fbb690a067a17be
     wayland/1.20.0:00d8f2e37c9112ad8417921edf0c46944c44bbab
     wayland-protocols/1.24:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
     xorg/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
-    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
     fPIC=True
@@ -89,7 +89,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    e0e0f2a0552b1bf3fa54e4376108d499
+    8d6c39b178a19333e25075ba0e8e0adc
 
 [env]
 

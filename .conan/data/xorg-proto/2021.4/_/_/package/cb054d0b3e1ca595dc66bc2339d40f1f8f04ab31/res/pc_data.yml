@@ -1,0 +1,84 @@
+applewmproto:
+  name: AppleWMProto
+  version: 1.4.2
+bigreqsproto:
+  name: BigReqsProto
+  version: 1.1.2
+compositeproto:
+  name: CompositeExt
+  version: 0.4.2
+damageproto:
+  name: DamageProto
+  version: 1.2.1
+dmxproto:
+  name: DMXProto
+  version: 2.3.1
+dpmsproto:
+  name: DPMSProto
+  version: '1.2'
+dri2proto:
+  name: DRI2Proto
+  version: '2.8'
+dri3proto:
+  name: DRI3Proto
+  version: '1.2'
+fixesproto:
+  name: FixesProto
+  version: '6.0'
+fontsproto:
+  name: FontsProto
+  version: 2.1.3
+glproto:
+  name: GLProto
+  version: 1.4.17
+inputproto:
+  name: InputProto
+  version: 2.3.2
+kbproto:
+  name: KBProto
+  version: 1.0.7
+presentproto:
+  name: PresentProto
+  version: '1.2'
+randrproto:
+  name: RandrProto
+  version: 1.6.0
+recordproto:
+  name: RecordProto
+  version: 1.14.2
+renderproto:
+  name: RenderProto
+  version: 0.11.1
+resourceproto:
+  name: ResourceProto
+  version: 1.2.0
+scrnsaverproto:
+  name: ScrnSaverProto
+  version: 1.2.3
+videoproto:
+  name: VideoProto
+  version: 2.3.3
+xcmiscproto:
+  name: XCMiscProto
+  version: 1.2.2
+xextproto:
+  name: XExtProto
+  version: 7.3.0
+xf86bigfontproto:
+  name: XF86BigFontProto
+  version: 1.2.0
+xf86dgaproto:
+  name: XF86DGAProto
+  version: '2.1'
+xf86driproto:
+  name: XF86DRIProto
+  version: 2.1.1
+xf86vidmodeproto:
+  name: XF86VidModeProto
+  version: 2.3.1
+xineramaproto:
+  name: XineramaProto
+  version: 1.2.1
+xproto:
+  name: Xproto
+  version: 7.0.33
