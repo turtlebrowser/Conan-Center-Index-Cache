@@ -22,7 +22,7 @@
     os=Macos
 
 [full_requires]
-    zlib/1.2.11:647afeb69d3b0a2d3d316e80b24d38c714cc6900
+    zlib/1.2.12:647afeb69d3b0a2d3d316e80b24d38c714cc6900
 
 [full_options]
     api_prefix=
@@ -33,7 +33,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    fb3adfc5b56c0b1c26781cbc438aa78a
+    bb7ba23408411f7540b64b591488fea5
 
 [env]
 

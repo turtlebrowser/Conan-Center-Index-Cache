@@ -1,6 +1,6 @@
-1632266881
-conandata.yml: f03680fdbf7bc660f38d35b923bdecdf
-conanfile.py: e49e8fa53a3b6f0431b0304871e2683b
+1649879113
+conandata.yml: 5c14f84b2cd26201763e6f92d514bacf
+conanfile.py: 75dbb892f84ac0f6a345e4b93902ca09
 export_source/patches/1.4.18-0001-fflush-adjust-to-glibc-2.28-libio.h-removal.patch: 0b612e3db3181de533b0f5a0d9dba652
 export_source/patches/1.4.18-0002-fflush-be-more-paranoid-about-libio.h-change.patch: 71cc3dd715fee50e2f8fb29b966f0fa9
 export_source/patches/1.4.18-0003-secure_snprintf.patch: 43b8381ff4f750c3726c093cdd800a9e
@@ -13,3 +13,4 @@ export_source/patches/1.4.18-0009-disable-hardening-in-source.patch: f17744b57ea
 export_source/patches/1.4.18-0010-c-stack-stop-using-SIGSTKSZ.patch: ac9d6e63484cb1e8200971ba649a58de
 export_source/patches/1.4.19-0001-open-files-in-binary-mode.patch: c4cbb541e496ff1be8872b59b3b19d56
 export_source/patches/1.4.19-0002-ar-lib.patch: c00ed888233bcddc1eb90c6c207c7046
+export_source/patches/1.4.19-0003-msvc-debug-assertion.patch: accc6b762972b8606d1c91d25467bc53

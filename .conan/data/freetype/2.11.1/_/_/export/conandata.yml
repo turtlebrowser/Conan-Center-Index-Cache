@@ -1,0 +1,6 @@
+sources:
+  2.11.1:
+    sha256: f8db94d307e9c54961b39a1cc799a67d46681480696ed72ecf78d4473770f09b
+    url:
+    - https://download.savannah.gnu.org/releases/freetype/freetype-2.11.1.tar.gz
+    - https://sourceforge.net/projects/freetype/files/freetype2/2.11.1/freetype-2.11.1.tar.gz/download

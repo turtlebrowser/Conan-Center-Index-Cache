@@ -16,8 +16,12 @@ patches:
     patch_file: patches/declarative_missing_header.diff
   - base_path: qt5/qtwebengine/src/3rdparty
     patch_file: patches/f830b86.diff
+  - base_path: qt5/qtwebengine/src/3rdparty
+    patch_file: patches/fix-gcc-11.diff
   - base_path: qt5/qtbase
     patch_file: patches/dece6f5.diff
+  - base_path: qt5/qtwebengine/src/3rdparty
+    patch_file: patches/QTBUG-98813.patch
 sources:
   5.15.2:
     sha256: 3a530d1b243b5dec00bc54937455471aaa3e56849d2593edb8ded07228202240

@@ -1,0 +1,15 @@
+1646695881
+conaninfo.txt: 7b88fa971b1e471908def8b907507aa4
+include/double-conversion/bignum.h: bfbe796255f8d9b37ccfa9a6c74b82db
+include/double-conversion/cached-powers.h: 141b43307b4046bcfed2d2baf6584d2a
+include/double-conversion/diy-fp.h: 38f27d9d1758cdcdffe45334b7861cc4
+include/double-conversion/double-conversion.h: 424ee1ff51bff5a6249bc1c25c6c680e
+include/double-conversion/double-to-string.h: 7dbf56697af788e9277e7179a95ca621
+include/double-conversion/fast-dtoa.h: a40fa086a4c1491617f2a3657a13bf98
+include/double-conversion/fixed-dtoa.h: a7b806c8e6cdc28c658169b47b1b1458
+include/double-conversion/ieee.h: b224c7fbc8a812d4cfdcf95ad63e086f
+include/double-conversion/string-to-double.h: e5d6d959e59eceb5c338ac35c43c5917
+include/double-conversion/strtod.h: 8cd63eedc02447f21db62e396ebaeaad
+include/double-conversion/utils.h: 740f5cdebe4c2da0df8a8270274fadf7
+lib/libdouble-conversion.a: 863a8e20a487883b5cfc1fba691964aa
+licenses/LICENSE: 1ea35644f0ec0d9767897115667e901f
