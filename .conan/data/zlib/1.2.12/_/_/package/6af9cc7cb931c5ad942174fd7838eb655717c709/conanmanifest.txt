@@ -1,0 +1,6 @@
+1648569476
+conaninfo.txt: 707c88daaefc7791b3d394d34d4990aa
+include/zconf.h: 090a48907420edfe5d859305f967a6c7
+include/zlib.h: d3e8793e6d1b7c77d2a7732246f14063
+lib/libz.a: 4b7b769ba914d276bc3e63b2050d1706
+licenses/LICENSE: 36207c7effe05dd1ec51e57188feba46

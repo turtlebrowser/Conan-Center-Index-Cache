@@ -1,0 +1,4 @@
+sources:
+  '4.33':
+    sha256: b23ee315be0e50c2fb1aa374d17f2d2d9146a835b1a79c1918ea15d075a693d7
+    url: https://ftp.mozilla.org/pub/nspr/releases/v4.33/src/nspr-4.33.tar.gz

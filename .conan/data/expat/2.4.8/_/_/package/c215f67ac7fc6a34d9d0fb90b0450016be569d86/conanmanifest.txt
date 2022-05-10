@@ -1,0 +1,7 @@
+1648504396
+conaninfo.txt: 16a0bfa6314a31fe2390b18a4a50c890
+include/expat.h: 46cdb51f7f28212f10c75331817162e4
+include/expat_config.h: c1387ada96bf4b6c027ce133f561caad
+include/expat_external.h: d6245f5eed49cd4f141a85faefbfce83
+lib/libexpat.a: c7eb470e846fa1e3618804f5d99dcefa
+licenses/COPYING: 9e2ce3b3c4c0f2670883a23bbd7c37a9

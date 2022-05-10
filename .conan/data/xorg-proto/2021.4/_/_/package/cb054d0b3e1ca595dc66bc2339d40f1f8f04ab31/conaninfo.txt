@@ -1,0 +1,28 @@
+[settings]
+    os=Linux
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=4.9
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    a33437da70591bb16417a77169e3f145
+
+[env]
+
