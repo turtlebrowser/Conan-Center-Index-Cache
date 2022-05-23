@@ -14,7 +14,7 @@
     build_type=Release
     compiler=apple-clang
     compiler.libcxx=libc++
-    compiler.version=9.1
+    compiler.version=11.0
     os=Macos
 
 [full_requires]
@@ -24,7 +24,7 @@
 
 
 [recipe_hash]
-    0ed34363d5683eb57a22bd2ccd7b62fc
+    97ca12608a00fa4b1502bf0abd7bbc3e
 
 [env]
 

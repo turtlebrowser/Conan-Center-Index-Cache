@@ -75,6 +75,7 @@
     with_doubleconversion=True
     with_freetype=True
     with_glib=False
+    with_gssapi=False
     with_harfbuzz=False
     with_libjpeg=libjpeg
     with_libpng=True
@@ -107,7 +108,7 @@
     lz4/1.9.3:647afeb69d3b0a2d3d316e80b24d38c714cc6900
     odbc/2.3.9:5f4c4ed8ddf27bb70b22f93ac66b6827fc5411d1
     opengl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
-    openssl/1.1.1n:647afeb69d3b0a2d3d316e80b24d38c714cc6900
+    openssl/1.1.1o:647afeb69d3b0a2d3d316e80b24d38c714cc6900
     pcre2/10.39:2d8245d819a6b7543095d62df5d99244060071ba
     sqlite3/3.38.1:264f180b28ff91ffa6d05e858eb8e55cc6c1a073
     zlib/1.2.12:647afeb69d3b0a2d3d316e80b24d38c714cc6900
@@ -169,6 +170,7 @@
     with_doubleconversion=True
     with_freetype=True
     with_glib=False
+    with_gssapi=False
     with_harfbuzz=False
     with_libjpeg=libjpeg
     with_libpng=True
@@ -310,7 +312,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    6e9e6181a619158ab16c076edb1ca650
+    76cd20ce2209bfa0d58a5ce0b9e914de
 
 [env]
 
