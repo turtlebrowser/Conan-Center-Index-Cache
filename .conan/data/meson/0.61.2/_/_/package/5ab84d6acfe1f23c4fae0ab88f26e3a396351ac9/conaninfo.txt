@@ -1,0 +1,23 @@
+[settings]
+
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+
+
+[full_requires]
+    ninja/1.10.2:24647d9fe8ec489125dfbae4b3ebefaf7581674c
+
+[full_options]
+
+
+[recipe_hash]
+    10b8b908a17f66020699c5deb9327f3a
+
+[env]
+

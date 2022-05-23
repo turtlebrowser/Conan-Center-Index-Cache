@@ -1,0 +1,4 @@
+sources:
+  0.61.2:
+    sha256: 33cd555314a94d52acfbb3f6f44d4e61c4ad0bfec7acf4301be7e40bb969b3a8
+    url: https://github.com/mesonbuild/meson/archive/0.61.2.tar.gz

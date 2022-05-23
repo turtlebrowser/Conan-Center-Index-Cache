@@ -30,3 +30,4 @@ sources:
     - https://qt-mirror.dannhauer.de/archive/qt/5.15/5.15.2/single/qt-everywhere-src-5.15.2.tar.xz
     - https://www.funet.fi/pub/mirrors/download.qt-project.org/archive/qt/5.15/5.15.2/single/qt-everywhere-src-5.15.2.tar.xz
     - https://ftp.fau.de/qtproject/archive/qt/5.15/5.15.2/single/qt-everywhere-src-5.15.2.tar.xz
+    - https://mirrors.ustc.edu.cn/qtproject/archive/qt/5.15/5.15.2/single/qt-everywhere-src-5.15.2.tar.xz

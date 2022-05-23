@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+meson_dir=$(dirname "$0")
+exec "$meson_dir/meson.py" "$@"

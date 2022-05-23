@@ -87,6 +87,7 @@
     with_fontconfig=True
     with_freetype=True
     with_glib=False
+    with_gssapi=False
     with_harfbuzz=False
     with_icu=True
     with_libjpeg=libjpeg
@@ -132,7 +133,7 @@
     nss/3.76:056db49f036262f797d899492aac8b4818e937fb
     odbc/2.3.9:9a3000d05c285f5d1cafd82b1c16b32bebd50c49
     opengl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
-    openssl/1.1.1n:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    openssl/1.1.1o:d50a0d523d98c15bb147b18fa7d203887c38be8b
     opus/1.3.1:d50a0d523d98c15bb147b18fa7d203887c38be8b
     pcre2/10.39:1c9d43d83525794344b4551b2c0412432279b782
     sqlite3/3.38.1:5d9cbe9a679cbc2caf01329966792ef325ad31be
@@ -202,6 +203,7 @@
     with_fontconfig=True
     with_freetype=True
     with_glib=False
+    with_gssapi=False
     with_harfbuzz=False
     with_icu=True
     with_libjpeg=libjpeg
@@ -429,7 +431,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    93f92633ddbf9daf8cc90503e2ed7343
+    76cd20ce2209bfa0d58a5ce0b9e914de
 
 [env]
 
