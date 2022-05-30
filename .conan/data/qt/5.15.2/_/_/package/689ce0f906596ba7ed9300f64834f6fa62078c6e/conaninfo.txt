@@ -125,7 +125,7 @@
     libpng/1.6.37:9378b660d2155d53cea1126fa13164a3bfa59f2c
     libpq/14.2:d50a0d523d98c15bb147b18fa7d203887c38be8b
     libuuid/1.0.3:d50a0d523d98c15bb147b18fa7d203887c38be8b
-    libxml2/2.9.13:07753a3ecbad874f99f63d243fbb690a067a17be
+    libxml2/2.9.14:07753a3ecbad874f99f63d243fbb690a067a17be
     libxshmfence/1.3:5c51365736c0ab57b344b9e7de00a9f38a00041e
     linux-headers-generic/5.14.9:c0519e2d9702ec12d057bb15adb7a02baaf18107
     lz4/1.9.3:d50a0d523d98c15bb147b18fa7d203887c38be8b
@@ -139,7 +139,7 @@
     sqlite3/3.38.1:5d9cbe9a679cbc2caf01329966792ef325ad31be
     wayland/1.20.0:00d8f2e37c9112ad8417921edf0c46944c44bbab
     wayland-protocols/1.24:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
-    xkbcommon/1.4.0:f490dc036fc8115d98660a8f9e70c53ec22e7aea
+    xkbcommon/1.4.1:f490dc036fc8115d98660a8f9e70c53ec22e7aea
     xorg/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
     xorg-proto/2021.4:cb054d0b3e1ca595dc66bc2339d40f1f8f04ab31
     zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
@@ -431,7 +431,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    76cd20ce2209bfa0d58a5ce0b9e914de
+    6c150c232b6dc655031880e5175556b6
 
 [env]
 

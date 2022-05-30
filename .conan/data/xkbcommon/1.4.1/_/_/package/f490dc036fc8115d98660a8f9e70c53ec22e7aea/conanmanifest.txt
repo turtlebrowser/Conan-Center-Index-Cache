@@ -1,0 +1,20 @@
+1653312903
+bin/xkbcli: 3ead01547bf8b09aae864c657a139ef0
+bin/xkbcommon/xkbcli-compile-keymap: 8f6ed016e2383f28f894aeb917beafc3
+bin/xkbcommon/xkbcli-how-to-type: fb7fcbd5f8710faff44ff567f8aa93ab
+bin/xkbcommon/xkbcli-interactive-evdev: a7b187fb95445fd9cf774cc82eafd3ee
+bin/xkbcommon/xkbcli-interactive-wayland: 0fba77485d907d8e2f749e9a001502b6
+bin/xkbcommon/xkbcli-interactive-x11: 5163a1c86f7570eebb31729e677e5e31
+bin/xkbcommon/xkbcli-list: b73e8f03e8eb922043e5bca558af4a55
+conaninfo.txt: 1f79ae179400a054a8ae8e6e87222a3f
+include/xkbcommon/xkbcommon-compat.h: b07292505eb1a4861a72d2cfb4da7cf8
+include/xkbcommon/xkbcommon-compose.h: 39e5424a6d642116b57e3a57ec73f59c
+include/xkbcommon/xkbcommon-keysyms.h: 40967a2e5e060347a578c4282138583a
+include/xkbcommon/xkbcommon-names.h: 10fedda2f75a254daf645e9ad4d6fc53
+include/xkbcommon/xkbcommon-x11.h: dd1e1af86abaf61f54fe964c4f5b3287
+include/xkbcommon/xkbcommon.h: b0187000209367e31ad8e55d1dc84fbd
+include/xkbcommon/xkbregistry.h: 73de106b4f8b9ca4eee019e992bd3454
+lib/libxkbcommon-x11.a: 60c2c61223c6d31e616aa31fb216fb4f
+lib/libxkbcommon.a: 24f83e56e5180f952eea579cea707db6
+lib/libxkbregistry.a: 59074322c16a33d4ba166e5ea43fefe3
+licenses/LICENSE: e525ed9809e1f8a07cf4bce8b09e8b87
