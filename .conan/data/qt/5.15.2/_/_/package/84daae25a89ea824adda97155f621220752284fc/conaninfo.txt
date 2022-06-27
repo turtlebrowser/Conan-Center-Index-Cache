@@ -110,7 +110,7 @@
     opengl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
     openssl/1.1.1o:647afeb69d3b0a2d3d316e80b24d38c714cc6900
     pcre2/10.39:2d8245d819a6b7543095d62df5d99244060071ba
-    sqlite3/3.38.1:264f180b28ff91ffa6d05e858eb8e55cc6c1a073
+    sqlite3/3.38.1:1998449a55b0750dbfb77d1773ac42db2a3b9d53
     zlib/1.2.12:647afeb69d3b0a2d3d316e80b24d38c714cc6900
     zstd/1.5.2:5705a7fa97c7293d9657913109fadb0b722cb589
 
@@ -300,7 +300,10 @@
     sqlite3:enable_soundex=False
     sqlite3:enable_unlock_notify=True
     sqlite3:fPIC=True
-    sqlite3:max_blob_size=1000000000
+    sqlite3:max_blob_size=None
+    sqlite3:max_column=None
+    sqlite3:max_variable_number=None
+    sqlite3:omit_deprecated=False
     sqlite3:omit_load_extension=False
     sqlite3:shared=False
     sqlite3:threadsafe=1
@@ -312,7 +315,7 @@
     zstd:threading=True
 
 [recipe_hash]
-    6c150c232b6dc655031880e5175556b6
+    9e380a7eeca95db431f66dbf544bf29b
 
 [env]
 
