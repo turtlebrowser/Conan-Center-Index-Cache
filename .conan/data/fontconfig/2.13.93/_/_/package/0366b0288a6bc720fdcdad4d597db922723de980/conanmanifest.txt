@@ -1,15 +1,15 @@
-1649833234
+1656037320
 bin/etc/fonts/conf.d/README: ad6182d0b838d9d8f39219a37b88b24d
 bin/etc/fonts/fonts.conf: 4f4008ed3c87195b581e13fb0b9b9a09
 bin/fc-cache: 5c6271ea75feaf1328d85efd5160115d
 bin/fc-cat: 58c181ea300a2967b529bcc74c8972d0
-bin/fc-conflist: c87cac51ddbfc37d0aae595dde0dafff
+bin/fc-conflist: af715f5ef35a9eab8feeec07f8eff14b
 bin/fc-list: 927ff025c328f3b71198d926ada46d26
 bin/fc-match: 84cbc68986d529265aca3f5ff3d4f386
 bin/fc-pattern: 5c7f4bd5be8860a4b7575dd31759a268
 bin/fc-query: 8773625d07cb8782f194da95772f1de8
 bin/fc-scan: f6148b269e1b1809defcd5df79e7486d
-bin/fc-validate: e831e44500ee928e1aab8ffdffa85408
+bin/fc-validate: 3a8c131004605e0e05c0073ae8798edf
 bin/share/fontconfig/conf.avail/05-reset-dirs-sample.conf: 3afa30c28051ba4ceb3e1979fc460bee
 bin/share/fontconfig/conf.avail/09-autohint-if-no-hinting.conf: e9f91b71da7d137860020c6fb1c128dc
 bin/share/fontconfig/conf.avail/10-autohint.conf: 33a364d91656a2212dfe706c3635eb5f
@@ -50,11 +50,11 @@ bin/share/fontconfig/conf.avail/90-synthetic.conf: 3202b57ed004b0828d6e2e70f56d9
 bin/share/gettext/its/fontconfig.its: 09653a472e45867beae41d1e3573499e
 bin/share/gettext/its/fontconfig.loc: 31b08013cfa125b62403440eaaff5124
 bin/share/xml/fontconfig/fonts.dtd: 2c84e0b58247e55e588812313b545636
-conaninfo.txt: ab84aeb613629847f91d598189067a87
+conaninfo.txt: 9f68352d2eae8f104d76f62ba061a00b
 include/fontconfig/fcfreetype.h: f25cec0cf31c557b16c569e1901878bd
 include/fontconfig/fcprivate.h: 85e725e25bbda2c2f3ee3fdf90708faf
 include/fontconfig/fontconfig.h: a43a2f3df84d9b0d734de781dce2d629
-lib/libfontconfig.so: 066b04e6efc88ff0c797c6f6ed75265f
-lib/libfontconfig.so.1: 066b04e6efc88ff0c797c6f6ed75265f
-lib/libfontconfig.so.1.12.0: 066b04e6efc88ff0c797c6f6ed75265f
+lib/libfontconfig.so: 9ea624d48e122b88ae75606a03ecbcf4
+lib/libfontconfig.so.1: 9ea624d48e122b88ae75606a03ecbcf4
+lib/libfontconfig.so.1.12.0: 9ea624d48e122b88ae75606a03ecbcf4
 licenses/COPYING: 70d2396d621f00b1034ccb5d3d529384
