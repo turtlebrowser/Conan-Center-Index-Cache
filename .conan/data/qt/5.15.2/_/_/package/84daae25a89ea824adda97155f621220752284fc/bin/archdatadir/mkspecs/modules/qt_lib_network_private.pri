@@ -11,4 +11,3 @@ QT.network_private.enabled_features = corewlan openssl-linked openssl system-pro
 QT.network_private.disabled_features = libproxy linux-netlink netlistmgr
 QMAKE_LIBS_OPENSSL = -lssl -lcrypto
 QMAKE_LIBS_NETWORK = 
-QMAKE_LIBS_GSSAPI = -framework GSS

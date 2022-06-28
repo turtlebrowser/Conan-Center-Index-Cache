@@ -1,0 +1,10 @@
+patches:
+  1.1.1o:
+  - base_path: source_subfolder
+    patch_file: patches/1.1.1-tvos-watchos.patch
+sources:
+  1.1.1o:
+    sha256: 9384a2b0570dd80358841464677115df785edb941c71211f75076d72fe6b438f
+    url:
+    - https://www.openssl.org/source/openssl-1.1.1o.tar.gz
+    - https://www.openssl.org/source/old/openssl-1.1.1o.tar.gz
