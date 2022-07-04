@@ -13,8 +13,8 @@
     arch=x86_64
     build_type=Release
     compiler=gcc
-    compiler.libcxx=libstdc++
-    compiler.version=4.9
+    compiler.libcxx=libstdc++11
+    compiler.version=5
     os=Linux
 
 [full_requires]
@@ -24,7 +24,7 @@
 
 
 [recipe_hash]
-    992ac8ebc5b0a7ab6bd529a42ad53962
+    d5989f43a72ae8ac3e1d1a62aa3382ce
 
 [env]
 

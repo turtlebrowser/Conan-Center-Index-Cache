@@ -61,7 +61,7 @@
     libpciaccess:shared=False
 
 [recipe_hash]
-    0b4f783b355a699f53cc5acb1521f7f5
+    53eec82d8018c0d837238da67f8d5bba
 
 [env]
 

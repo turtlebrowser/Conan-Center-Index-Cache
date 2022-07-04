@@ -22,7 +22,7 @@
 
 [full_requires]
     nspr/4.33:f5b67f6d5b5cc4ab011726fd337c4c7bcd3408fd
-    sqlite3/3.38.1:5d9cbe9a679cbc2caf01329966792ef325ad31be
+    sqlite3/3.38.1:90c2f4bf4587ece3837fa482e63450bb3e02109c
     zlib/1.2.12:d50a0d523d98c15bb147b18fa7d203887c38be8b
 
 [full_options]
@@ -47,7 +47,10 @@
     sqlite3:enable_rtree=True
     sqlite3:enable_soundex=False
     sqlite3:enable_unlock_notify=True
-    sqlite3:max_blob_size=1000000000
+    sqlite3:max_blob_size=None
+    sqlite3:max_column=None
+    sqlite3:max_variable_number=None
+    sqlite3:omit_deprecated=False
     sqlite3:omit_load_extension=False
     sqlite3:shared=True
     sqlite3:threadsafe=1
@@ -56,7 +59,7 @@
     zlib:shared=False
 
 [recipe_hash]
-    c96d2a7b70b082f0ccc1b776b1186710
+    2ce3a14cc7910f1ea8cd34c7d38395d9
 
 [env]
 
